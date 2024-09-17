@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Parcial1_Practica2</string>
+
+    <string name="p1t1">BIENVENIDO</string>
+    <string name="p1t2">INGRESA TU NOMBRE</string>
+    <string name="p1h1">AQUI TU NOMBRE</string>
+    <string name="p1bt1">ENVIAR SALUDO</string>
+
+</resources>
